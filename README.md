@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Full Stack Java**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python SQL**
 
 - 📫 How to reach me **rushimon1129@gmail.com**
 
