@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rushimon Arigela</h1>
+<h1 align="center">👋Hi there ✨Rushimon✨ here! </h1>
 <h3 align="center">A passionate software developer from India</h3>
 <br>
 
