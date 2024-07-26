@@ -1,10 +1,10 @@
 <h1 align="center" background-color="white">👋Hi there ✨Rushimon✨ here!</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<br>
+<h3 align="center">First, solve the problem. Then, write the code.</h3>
+ 
 
-
-
+# 💫 About Me:
 - 🌱 I’m currently learning **Full Stack Java**
+ - 👯 I’m looking to collaborate on Web Applications
 
 - 💬 Ask me about **python, SQL**
 
