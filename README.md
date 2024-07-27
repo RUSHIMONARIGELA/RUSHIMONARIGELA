@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Full Stack Java**
 - 👯 I’m looking to collaborate on Web Applications
 - 💬 Ask me about **python, SQL**
-- ⚡ Fun fact I Think I'm Funny(I am😁)
+- ⚡ Fun fact People Think I Have Attitude Issues(Actually I have 😁).
 - 📫 How to reach me **rushimon1129@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
