@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushimonarigela&" alt="rushimonarigela" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushimonarigela&label=Profile%20views&color=0e75b6&style=flat" alt="rushimonarigela" /> </p>
-<p> this is an read</p>
+<p> this is an read me file</p>
