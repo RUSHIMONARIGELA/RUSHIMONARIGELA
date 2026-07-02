@@ -2,7 +2,7 @@
 <p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Full Stack Java**
+- 🌱 I’m currently working as a **Full Stack Java Developer**
 - 👯 I’m looking to collaborate on **Web Applications**
 - 📫 How to reach me: **rushimon1129@gmail.com**
 
